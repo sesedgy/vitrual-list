@@ -1,0 +1,22 @@
+{
+  "name": "virtualized-list",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.2.0",
+    "faker": "^4.1.0",
+    "muicss": "^0.9.39",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-resize-detector": "^3.1.0",
+    "react-scripts": "1.1.4",
+    "react-tiny-virtual-list": "^2.2.0",
+    "reactstrap": "^6.3.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
